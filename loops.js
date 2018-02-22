@@ -19,7 +19,7 @@ function whileLoop(number) {
 
   function doWhileLoop(array) {
   do {
-    arrau.pop();
+    array.pop();
   } while (array.length > 0 && maybeTrue());
   return array
 }
