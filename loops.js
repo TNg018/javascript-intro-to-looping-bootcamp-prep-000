@@ -3,6 +3,5 @@ function forLoop(array) {
   console.log("I am 1 strange loop.")
     if(i === 0)break;
     console.log("I am ${i} strange loops");
-    i--;
   }
 }
