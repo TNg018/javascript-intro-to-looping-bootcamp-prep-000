@@ -10,8 +10,12 @@ function forLoop(array) {
    return array;
  }
 
-function whileLoop(n) {
-  while (countdown > 0) {
-    console.log(--countdown)
-return "done"
-}
+ function whileLoop(number) {
+    while (number > 0) {
+      console.log(--number)
+    }
+    return "done";
+  }
+
+  function maybeTrue() {
+    return Math.random() >= 0.5
