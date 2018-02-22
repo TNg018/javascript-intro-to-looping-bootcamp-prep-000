@@ -4,3 +4,4 @@ if (false) {
 } else {
   console.log("I am 1 strange loop.");
 }
+}
