@@ -3,3 +3,4 @@ function forLoop(array) {
     if (false) {
     return console.log("I am ${i} strange loops.")
   }
+}
